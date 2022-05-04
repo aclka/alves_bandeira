@@ -52,14 +52,14 @@ HotspotPanoramaOverlayTextImage_94F6E01E_8E6E_1BA1_41C0_0FD625174703.text = {{qu
 audiores_91C30850_8AE6_42A9_41AC_93F156826612.mp3Url = media/audio_971675C0_8AE6_CDA9_41D0_1264E26ED55A_en.mp3
 
 ### Image
-imlevel_9A4A0C9F_8F4E_FCE5_41C4_6C109DAEAB26.url = media/panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01_HS_ubevcab6_en.png
-imlevel_9B7C4CFD_8F4E_FC25_41D7_CD48A70F4C7F.url = media/panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB_HS_2aiqbu9x_en.png
-imlevel_9B06AD3C_8F4E_FC2A_4170_43E1CE5B2A32.url = media/panorama_97A561BB_8A59_C5D8_41C5_E2DF0716E36F_HS_13rqgmno_en.png
-imlevel_9B043DA9_8F4E_FC2A_41E1_11071BBC133E.url = media/panorama_97C4DCF2_8A7B_C369_41CD_F8CF740BC169_HS_nbhr2uhw_en.png
-imlevel_9B048DD8_8F4E_FC6A_41BA_156AAAAAF2D8.url = media/panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE_HS_2n9vw2mo_en.png
-imlevel_9B0A5E26_8F4E_FC26_41B0_D19F2EE64887.url = media/panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE_HS_su4ejwsz_en.png
-imlevel_9B0BCE16_8F4E_FFE7_41D9_BD930B893A59.url = media/panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE_HS_znwwpwl4_en.png
-imlevel_9B05FD6B_8F4E_FC2E_41B4_CDF2BA28E05F.url = media/panorama_9C39116D_8AA7_C57B_41BB_6EC9041009A9_HS_6taxkhmb_en.png
+imlevel_9A7BBAA5_8F72_E0DD_41DC_E40AD3D5F162.url = media/panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01_HS_ubevcab6_en.png
+imlevel_9A786B07_8F72_E1DD_41D3_F9B0E0ED5393.url = media/panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB_HS_2aiqbu9x_en.png
+imlevel_9A7D2B36_8F72_E03F_41D4_7DEA914D9933.url = media/panorama_97A561BB_8A59_C5D8_41C5_E2DF0716E36F_HS_13rqgmno_en.png
+imlevel_9A7C3BA3_8F72_E0D5_41D9_AF50377C293C.url = media/panorama_97C4DCF2_8A7B_C369_41CD_F8CF740BC169_HS_nbhr2uhw_en.png
+imlevel_9A725BE2_8F72_E057_41B7_FE64084C64FD.url = media/panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE_HS_2n9vw2mo_en.png
+imlevel_9A72CC20_8F72_E7D3_41DE_F23824ABBEAA.url = media/panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE_HS_su4ejwsz_en.png
+imlevel_9A715C10_8F72_E7F3_41B1_BAFB506A476B.url = media/panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE_HS_znwwpwl4_en.png
+imlevel_9A7D2B74_8F72_E033_41BF_62E31404B3A6.url = media/panorama_9C39116D_8AA7_C57B_41BB_6EC9041009A9_HS_6taxkhmb_en.png
 
 ### Title
 panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01.label = intro
@@ -72,12 +72,15 @@ panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_978E39A9_8F56_042A_41DD_2250706C55E1.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_978E39A9_8F56_042A_41DD_2250706C55E1.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_99101A6D_8F6E_E02D_41C9_7D291A9048D8.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_99101A6D_8F6E_E02D_41C9_7D291A9048D8.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
 
 ## Skin
 
 ### Multiline Text
+HTMLText_81D4479C_8F51_60F3_41D0_B18D8BDB0CB1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,1);line-height:150%;text-align:right;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Be Vietnam Pro Medium';"><B>Cartões:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,1);line-height:150%;text-align:right;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.score2.score}} / 2</B></SPAN></SPAN></DIV></div>
+HTMLText_80644C9F_8F5F_60ED_41BF_52FC61E908A7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Be Vietnam Pro Medium';"><B>Perguntas Respondidas:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.questions.answered}} / {{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
+HTMLText_80528499_8F5F_20F5_41BE_870A4C44B58A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Be Vietnam Pro Medium';"><B>Pontos:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.score1.score}}</B></SPAN></SPAN></DIV></div>
 HTMLText_9D0A8738_8EAE_E5E1_41C7_2F04C1EF2529.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Be Vietnam Pro Medium';"><B>Perguntas Respondidas:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.questions.answered}} / {{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
 HTMLText_AECE3917_8E7E_2DAF_41C3_8E05D1B3E0B2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Be Vietnam Pro Medium';"><B>Pontos:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.score1.score}}</B></SPAN></SPAN></DIV></div>
 HTMLText_9A3360EA_8EAA_1C61_41B1_889E8E1AE4CE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:right;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Be Vietnam Pro Medium';"><B>Cartões:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:right;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.score2.score}} / 2</B></SPAN></SPAN></DIV></div>

@@ -36,9 +36,9 @@
    "src": "misc/icon16.png"
   }
  ],
+ "theme_color": "#000000",
  "name": "Alves Bandeira",
- "background_color": "#000000",
  "display": "fullscreen",
- "start_url": "index.htm",
- "theme_color": "#000000"
+ "background_color": "#000000",
+ "start_url": "index.htm"
 }
