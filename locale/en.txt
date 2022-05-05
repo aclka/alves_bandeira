@@ -61,8 +61,8 @@ panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_BFDECD40_9396_3E20_41B6_5FFAC64C84C8.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_BFDECD40_9396_3E20_41B6_5FFAC64C84C8.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_B948A857_9376_C620_41D6_01CCDC42C7D1.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_B948A857_9376_C620_41D6_01CCDC42C7D1.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
 
 ## Skin
 
