@@ -1,10 +1,5 @@
 #: locale=en
 
-## Action
-
-### URL
-PopupWebFrameBehaviour_9EFFCF39_902F_16F2_41CF_1A39A47CB3FB.url = //www.youtube.com/embed/wRLsJ31Tuas?v=wRLsJ31Tuas
-
 ## E-Learning
 
 ### Question Screen
@@ -19,11 +14,12 @@ quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.questionsIncorrect = Incorrect
 quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.items = Items Found
 quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.questions = Questions
 quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.repeat = Repeat
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.description = Resultados da Formação
 quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.submitToLMS = Submit
 quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.elapsedTime = Time
 
 ### Score Name
-score2.label = Cartoes
+score2.label = Cartões
 score1.label = Pontos
 
 ### Timeout Screen
@@ -34,26 +30,39 @@ quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.score = View Score
 ## Hotspot
 
 ### URL
-FramePanoramaOverlay_816A2F12_9036_2195_41C4_7D2A7803ADE4.url = {{quiz.score1.score}}
+FramePanoramaOverlay_83B455A0_9372_4E60_41D5_A5942E8907F0.url = //www.youtube.com/embed/wRLsJ31Tuas?v=wRLsJ31Tuas
 
 ## Media
 
 ### Audio
+audiores_8F0940B4_939E_4661_41C3_8DAB4C3515E9.mp3Url = media/audio_850BA178_9396_46E0_41B3_1251377A7771_en.mp3
+audiores_8F34BFFA_939E_59E0_41DF_32810FDB4DBD.mp3Url = media/audio_85F09916_93B6_C621_41CE_AE62177B4825_en.mp3
 audiores_91C30850_8AE6_42A9_41AC_93F156826612.mp3Url = media/audio_971675C0_8AE6_CDA9_41D0_1264E26ED55A_en.mp3
+
+### Image
+imlevel_8800670E_939E_4A20_41C6_2050BB5FDE47.url = media/popup_84705335_93B6_CA63_41D2_2CB1605517D4_en_0_0.png
+imlevel_8800770E_939E_4A20_41AA_4088EF977817.url = media/popup_84705335_93B6_CA63_41D2_2CB1605517D4_en_0_1.png
+imlevel_880026EF_939E_4BE0_41C2_9A633A555F84.url = media/popup_857AF27B_93BE_4AE0_41DD_3B185D7104E9_en_0_0.png
+imlevel_880E16EF_939E_4BE0_41C9_0348B0EDE960.url = media/popup_857AF27B_93BE_4AE0_41DD_3B185D7104E9_en_0_1.png
+imlevel_B709C629_9397_CA63_41D8_6583CB03ED34.url = media/popup_B156E9C2_9392_4620_41BA_916DFD4FA572_en_0_0.png
+imlevel_B70EC629_9397_CA63_41C8_7A2FB4373FBA.url = media/popup_B156E9C2_9392_4620_41BA_916DFD4FA572_en_0_1.png
+
+### Popup Image
 
 ### Title
 panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01.label = intro
+panorama_B45466FA_93B2_CBE0_41E1_245A7D07A962.label = intro_tutorial
 panorama_97A561BB_8A59_C5D8_41C5_E2DF0716E36F.label = janela_atendimento
 panorama_97C4DCF2_8A7B_C369_41CD_F8CF740BC169.label = janela_atendimento_pergunta
+panorama_83B7B5A0_9372_4E60_41B2_227B896AF3D1.label = janela_atendimento_pergunta_video
 panorama_9C39116D_8AA7_C57B_41BB_6EC9041009A9.label = janela_atendimento_video
 panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE.label = janela_fim
-panorama_9B59B2CD_8AB3_9945_41DC_35E652769029.label = janela_tutorial
 panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_812BA29F_9041_FAC1_41C6_E1D9151698D1.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_812BA29F_9041_FAC1_41C6_E1D9151698D1.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_BFDECD40_9396_3E20_41B6_5FFAC64C84C8.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_BFDECD40_9396_3E20_41B6_5FFAC64C84C8.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
 
 ## Skin
 
