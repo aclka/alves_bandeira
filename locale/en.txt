@@ -27,12 +27,22 @@ quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.title = - TIMEOUT -
 quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.repeat = Repeat
 quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.score = View Score
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_8CA41BA4_94B3_0AFA_41CD_07DD55631A85.text = 00:18
+HotspotPanoramaOverlayTextImage_8C5D1AB2_94B3_0ADF_41D5_DFA71B2E90D0.text = {{score}}
+
 ## Media
 
 ### Audio
 audiores_8F0940B4_939E_4661_41C3_8DAB4C3515E9.mp3Url = media/audio_850BA178_9396_46E0_41B3_1251377A7771_en.mp3
 audiores_8F34BFFA_939E_59E0_41DF_32810FDB4DBD.mp3Url = media/audio_85F09916_93B6_C621_41CE_AE62177B4825_en.mp3
 audiores_91C30850_8AE6_42A9_41AC_93F156826612.mp3Url = media/audio_971675C0_8AE6_CDA9_41D0_1264E26ED55A_en.mp3
+
+### Image
+imlevel_8C92E82B_94B7_35CD_4193_444FE0465D4C.url = media/panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD_HS_78z6pxh2_en.png
+imlevel_8C90780C_94B7_35CA_41BB_89464058ADB6.url = media/panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD_HS_d131spt4_en.png
 
 ### Title
 panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01.label = intro
@@ -44,15 +54,16 @@ panorama_9C39116D_8AA7_C57B_41BB_6EC9041009A9.label = janela_atendimento_video
 panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE.label = janela_fim
 panorama_9991D9DF_9471_3645_41DF_3119E19BB2D3.label = janela_resposta_certa
 panorama_998856F1_9471_FA5A_41D8_B88958C9C9B9.label = janela_resposta_errada
+panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD.label = janela_resultados
 panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
 video_85BB431D_9403_A21A_41DD_3AF3E9D75D83.label = y2mate.com - Alves Bandeira   Programa de fidelização Pontos AB   Campanha lançamento 2019_1080p
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_83E6FE34_9493_0DDA_41D9_C1C8CA914B5F.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
-videolevel_83E6FE34_9493_0DDA_41D9_C1C8CA914B5F.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
-videolevel_83944D1B_9493_0FCE_41C9_04A131864EB6.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_83944D1B_9493_0FCE_41C9_04A131864EB6.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_8B9E8D42_9597_1AC1_41D7_16CE15743603.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
+videolevel_8B9E8D42_9597_1AC1_41D7_16CE15743603.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
+videolevel_8B895C52_9597_1AC0_41BF_4F98D306984D.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_8B895C52_9597_1AC0_41BF_4F98D306984D.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
 
 ## Tour
 
