@@ -19,9 +19,9 @@ quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.submitToLMS = Submit
 quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.elapsedTime = Time
 
 ### Score Name
-score2.label = Cartões
-score3.label = Perguntas Respondidas
-score1.label = Pontos
+score3.label = Perguntasrespondidas
+score2.label = cartoes
+score1.label = pontos
 
 ### Timeout Screen
 quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.title = - TIMEOUT -
@@ -63,10 +63,10 @@ video_85BB431D_9403_A21A_41DD_3AF3E9D75D83.label = y2mate.com - Alves Bandeira  
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_B4261445_951B_F27A_41D8_5334F36DDE3C.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
-videolevel_B4261445_951B_F27A_41D8_5334F36DDE3C.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
-videolevel_B435C32C_951B_F609_41E1_8262FA4A8441.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_B435C32C_951B_F609_41E1_8262FA4A8441.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_83D8B7A9_9597_9741_41D0_3CFADD179447.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
+videolevel_83D8B7A9_9597_9741_41D0_3CFADD179447.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
+videolevel_83C8B656_9597_A9C2_41DE_A7C4A8F15B43.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_83C8B656_9597_A9C2_41DE_A7C4A8F15B43.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
 
 ## Skin
 
