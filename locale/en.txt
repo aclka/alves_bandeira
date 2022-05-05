@@ -20,6 +20,7 @@ quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.elapsedTime = Time
 
 ### Score Name
 score2.label = Cartões
+score3.label = Perguntas Respondidas
 score1.label = Pontos
 
 ### Timeout Screen
@@ -31,7 +32,7 @@ quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.score = View Score
 
 ### Text
 HotspotPanoramaOverlayTextImage_8CA41BA4_94B3_0AFA_41CD_07DD55631A85.text = 00:18
-HotspotPanoramaOverlayTextImage_8C5D1AB2_94B3_0ADF_41D5_DFA71B2E90D0.text = {{score}}
+HotspotPanoramaOverlayTextImage_8C5D1AB2_94B3_0ADF_41D5_DFA71B2E90D0.text = 10
 
 ## Media
 
@@ -41,8 +42,9 @@ audiores_8F34BFFA_939E_59E0_41DF_32810FDB4DBD.mp3Url = media/audio_85F09916_93B6
 audiores_91C30850_8AE6_42A9_41AC_93F156826612.mp3Url = media/audio_971675C0_8AE6_CDA9_41D0_1264E26ED55A_en.mp3
 
 ### Image
-imlevel_8C92E82B_94B7_35CD_4193_444FE0465D4C.url = media/panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD_HS_78z6pxh2_en.png
-imlevel_8C90780C_94B7_35CA_41BB_89464058ADB6.url = media/panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD_HS_d131spt4_en.png
+imlevel_9B21E52D_9514_920B_41AF_1CC46702C589.url = media/panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD_HS_78z6pxh2_en.png
+imlevel_9B41453D_9514_920B_41E1_2941C66B69EA.url = media/panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD_HS_d131spt4_en.png
+imlevel_8119D1CF_9534_B206_41CF_388B4C8321D1.url = media/panorama_97C4DCF2_8A7B_C369_41CD_F8CF740BC169_HS_hcgfiel4_en.png
 
 ### Title
 panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01.label = intro
@@ -55,15 +57,21 @@ panorama_991AFFA1_8EE6_24E0_41DB_F5CACE946CCE.label = janela_fim
 panorama_9991D9DF_9471_3645_41DF_3119E19BB2D3.label = janela_resposta_certa
 panorama_998856F1_9471_FA5A_41D8_B88958C9C9B9.label = janela_resposta_errada
 panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD.label = janela_resultados
+panorama_86AF9D2D_953C_920B_41BB_5B7D4E51D51B.label = janela_sem_tempo
 panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
 video_85BB431D_9403_A21A_41DD_3AF3E9D75D83.label = y2mate.com - Alves Bandeira   Programa de fidelização Pontos AB   Campanha lançamento 2019_1080p
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_8B9E8D42_9597_1AC1_41D7_16CE15743603.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
-videolevel_8B9E8D42_9597_1AC1_41D7_16CE15743603.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
-videolevel_8B895C52_9597_1AC0_41BF_4F98D306984D.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_8B895C52_9597_1AC0_41BF_4F98D306984D.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_8890EED7_9574_AE07_41D2_D602E252478F.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
+videolevel_8890EED7_9574_AE07_41D2_D602E252478F.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
+videolevel_88831D9F_9574_B207_419A_D056676AF056.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_88831D9F_9574_B207_419A_D056676AF056.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+
+## Skin
+
+### Multiline Text
+HTMLText_86F70CF2_950C_F219_41D3_332FDD14BE5A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Utilizador : {{userId}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Pontos: {{quiz.score1.score}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Cartões Vistos : {{quiz.score2.score}}/2</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Perguntas Respondidas: {{quiz.score3.score}}/1</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
