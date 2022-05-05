@@ -49,17 +49,10 @@ video_85BB431D_9403_A21A_41DD_3AF3E9D75D83.label = y2mate.com - Alves Bandeira  
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_87A08BC5_9493_0ABA_41C8_B38B622407F6.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
-videolevel_87A08BC5_9493_0ABA_41C8_B38B622407F6.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
-videolevel_8795BA7D_9493_0A4A_41D7_7505B9F8CA1F.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_8795BA7D_9493_0A4A_41D7_7505B9F8CA1F.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
-
-## Skin
-
-### Multiline Text
-HTMLText_AECE3917_8E7E_2DAF_41C3_8E05D1B3E0B2.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_9D0A8738_8EAE_E5E1_41C7_2F04C1EF2529.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Be Vietnam Pro Medium';"><B>Perguntas Respondidas:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.questions.answered}} / {{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
-HTMLText_9A3360EA_8EAA_1C61_41B1_889E8E1AE4CE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:right;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Be Vietnam Pro Medium';"><B>Cartões:</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);line-height:150%;text-align:right;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Be Vietnam Pro Medium';"><B>{{quiz.score2.score}} / 2</B></SPAN></SPAN></DIV></div>
+videolevel_818085AD_94B1_1EC5_41D9_C03BEFCF5718.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
+videolevel_818085AD_94B1_1EC5_41D9_C03BEFCF5718.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
+videolevel_819B84E2_94B1_1E7F_41CA_C9AE07E22113.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_819B84E2_94B1_1E7F_41CA_C9AE07E22113.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
 
 ## Tour
 
