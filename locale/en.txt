@@ -47,6 +47,8 @@ imlevel_9B41453D_9514_920B_41E1_2941C66B69EA.url = media/panorama_8CB13684_948F_
 imlevel_8119D1CF_9534_B206_41CF_388B4C8321D1.url = media/panorama_97C4DCF2_8A7B_C369_41CD_F8CF740BC169_HS_hcgfiel4_en.png
 
 ### Title
+video_8C633A27_98D2_00EA_41D2_D3D7632B3649.label = Alves Bandeira - Partilhe o momento e desfrute das lojas de conveniência Bluemarket.
+video_8C766075_98D2_016E_41B2_DC7736BE4BC3.label = Alves Bandeira _  Programa de fidelização Pontos AB _  Campanha lançamento 2019
 panorama_625C5D26_6B97_D551_41D2_DD80BCB16D01.label = intro
 panorama_B45466FA_93B2_CBE0_41E1_245A7D07A962.label = intro_tutorial
 panorama_97A561BB_8A59_C5D8_41C5_E2DF0716E36F.label = janela_atendimento
@@ -59,14 +61,12 @@ panorama_998856F1_9471_FA5A_41D8_B88958C9C9B9.label = janela_resposta_errada
 panorama_8CB13684_948F_3ABA_41D2_749D16ACE4BD.label = janela_resultados
 panorama_86AF9D2D_953C_920B_41BB_5B7D4E51D51B.label = janela_sem_tempo
 panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
-video_85BB431D_9403_A21A_41DD_3AF3E9D75D83.label = y2mate.com - Alves Bandeira   Programa de fidelização Pontos AB   Campanha lançamento 2019_1080p
-video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_8DDE84C1_98F6_01A6_416D_7CA51843D266.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
-videolevel_8DDE84C1_98F6_01A6_416D_7CA51843D266.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
-videolevel_8C2F03B7_98F6_07EA_41E2_2C1F5469F3B0.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_8C2F03B7_98F6_07EA_41E2_2C1F5469F3B0.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_9627B951_98E5_43D8_41DC_902097BCBDFC.url = media/video_8C633A27_98D2_00EA_41D2_D3D7632B3649_en.mp4
+videolevel_9627B951_98E5_43D8_41DC_902097BCBDFC.posterURL = media/video_8C633A27_98D2_00EA_41D2_D3D7632B3649_poster_en.jpg
+videolevel_9627198E_98E5_4349_41B7_0CFF568F67D1.url = media/video_8C766075_98D2_016E_41B2_DC7736BE4BC3_en.mp4
+videolevel_9627198E_98E5_4349_41B7_0CFF568F67D1.posterURL = media/video_8C766075_98D2_016E_41B2_DC7736BE4BC3_poster_en.jpg
 
 ## Right Click Menu
 

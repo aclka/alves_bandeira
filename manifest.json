@@ -39,6 +39,6 @@
  "name": "Alves Bandeira",
  "background_color": "#000000",
  "display": "fullscreen",
- "theme_color": "#000000",
- "start_url": "index.htm?installed=true"
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#000000"
 }
