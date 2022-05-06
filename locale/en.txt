@@ -63,10 +63,15 @@ video_85BB431D_9403_A21A_41DD_3AF3E9D75D83.label = y2mate.com - Alves Bandeira  
 video_9DD49D1B_8ABE_C2DF_4199_8748C465686C.label = y2mate.com - Alves Bandeira  Partilhe o momento e desfrute das lojas de conveniência Bluemarket_1080p
 
 ### Video
-videolevel_85431B4B_958C_38C9_41E2_7BDBFA74B337.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
-videolevel_85431B4B_958C_38C9_41E2_7BDBFA74B337.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
-videolevel_9AA90EB0_9584_5857_4193_871589132E34.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
-videolevel_9AA90EB0_9584_5857_4193_871589132E34.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+videolevel_8BADDDF9_98D6_0366_41D1_86FCE8B241F0.url = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_en.mp4
+videolevel_8BADDDF9_98D6_0366_41D1_86FCE8B241F0.posterURL = media/video_85BB431D_9403_A21A_41DD_3AF3E9D75D83_poster_en.jpg
+videolevel_8B1F1FB7_98D2_1FEA_41D9_88C460DDDE0C.url = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_en.mp4
+videolevel_8B1F1FB7_98D2_1FEA_41D9_88C460DDDE0C.posterURL = media/video_9DD49D1B_8ABE_C2DF_4199_8748C465686C_poster_en.jpg
+
+## Right Click Menu
+
+### Text
+PlayerMenuItem_89BE3691_98BE_01A6_41B5_A7FEE2124A7E.label = VR2WORK
 
 ## Skin
 

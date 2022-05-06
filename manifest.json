@@ -1,7 +1,4 @@
 {
- "theme_color": "#000000",
- "name": "Alves Bandeira",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "Alves Bandeira",
  "background_color": "#000000",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "theme_color": "#000000",
+ "start_url": "index.htm?installed=true"
 }
